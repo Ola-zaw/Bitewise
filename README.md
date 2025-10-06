@@ -2,7 +2,10 @@
 
 This repository contains the project files for an interactive Shiny app developed as part of the **Data Visualization Techniques** course at Warsaw University of Technology during the 2024/2025 winter semester. The app helps visualize personal dietary data, offering insights into eating habits through interactive charts and tools. The data was collected over a 3-week period using the **Fitatu** app. The app is hosted at: [https://olazaw.shinyapps.io/proj2/](https://olazaw.shinyapps.io/proj2/).
 
-**Creators:** Paula Wołkowska, Alicja Przeździecka, Aleksandra Zawadka.
+**Creators:** Paula Wołkowska, Alicja Przeździecka, [Aleksandra Zawadka](https://github.com/Ola-zaw).
+
+## Authors
+
 
 ## App Structure
 
